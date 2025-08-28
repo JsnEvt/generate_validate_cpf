@@ -14,9 +14,12 @@ Criado em meados de 2021 como prática de programação.
 - [PyQt5](https://pypi.org/project/PyQt5/)
 
 ## Prévia da interface
-![Screenshot do app](./img/gerando_cpf_png)
-
-![Screenshot do app](./img/validador_cpf_png)
+<p align="center">
+   <img src="./img/gerando_cpf.png" alt="gerandocpf" width="400">
+</p>
+<p align="center">
+   <img src="./img/validador_cpf.png" alt="validadorcpf" width="400">
+</p>
 
 ## ▶️ Como Executar
 1. Clone o repositório:
@@ -35,6 +38,7 @@ Criado em meados de 2021 como prática de programação.
     pip install -r requirements.txt
 
 4. Execute o programa
+   ```bash
    python app.py
 
 ## Licença
