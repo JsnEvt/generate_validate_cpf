@@ -13,7 +13,7 @@ Criado em meados de 2021 como prática de programação.
 - [Python 3.x](https://www.python.org/)
 - [PyQt5](https://pypi.org/project/PyQt5/)
 
-## Prévia da interface
+## Interface
 <p align="center">
    <img src="./img/gerando_cpf.png" alt="gerandocpf" width="400">
 </p>
